@@ -1,0 +1,17 @@
+*{transition:0.3s; font-family:lucida sans unicode; color: #262626; outline:none;}
+body{padding:0px; margin:0px;font-family: Arial,sans-serif;}
+.error{margin-left:10px;color:#000; font-family: Arial,sans-serif;}
+header{width:100%;   padding-top:10px; padding-bottom:10px; background:#000d1a; display:table; }
+.hleft{   padding-right:20px; padding-left:20px; }
+.img{width:120px; height:30px;}
+.img2{width:140px; height:50px;}
+.boxlogin{padding:20px; max-width:700px; border:1px solid #cccccc; border-radius:5px; text-align:left;}
+h2{margin:0px;}
+
+a{color:#007acc; text-decoration:none; }
+a:hover{text-decoration:underline;}
+.logout{ padding:6px; background:linear-gradient( #ffeb99, #cca300); border-radius:5px; border:1px solid #0d0d0d;}p{}
+.text{padding:6px; width:28%; border:1px solid #a6a6a6; border-radius:5px; margin-bottom:6px;}
+.texts{padding:6px; width:48%; border:1px solid #a6a6a6; border-radius:5px; margin-bottom:6px;}
+.button{font-weight:bold; margin-top:8px; background:linear-gradient( #fff0b3,#e6b800); padding:6px; border:1px solid #997300; border-radius:5px ; width:100%;}
+.button:hover{background:linear-gradient(#ffd24d, #e6ac00);}

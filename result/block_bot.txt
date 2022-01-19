@@ -1,0 +1,144 @@
+BLOCKED SAFEBROWSING || user-agent : Mozilla/5.0 (Windows N\T 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : ^42.112.8.* || 2020-6-28 ----> 05:06:24
+
+
+BLOCKED SAFEBROWSING || user-agent : Mozilla/5.0 (Windows N\T 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : ^42.112.8.* || 2020-6-28 ----> 05:06:24
+
+
+BLOCKED SAFEBROWSING || user-agent : Mozilla/5.0 (Windows N\T 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : ^42.112.8.* || 2020-6-28 ----> 05:06:24
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 23.19.224.53 || 2020-6-28 ----> 05:24:22
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 108.62.54.138 || 2020-6-28 ----> 05:24:22
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 23.81.129.79 || 2020-6-28 ----> 05:24:25
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 38.108.182.4 || 2020-6-28 ----> 05:30:08
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 38.108.182.4 || 2020-6-28 ----> 05:30:14
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 38.108.182.4 || 2020-6-28 ----> 05:30:20
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 38.108.182.4 || 2020-6-28 ----> 05:30:22
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 38.108.182.5 || 2020-6-28 ----> 05:30:30
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+ ip : 38.108.182.5 || 2020-6-28 ----> 05:30:47
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+ ip : 191.96.82.0 || 2020-6-28 ----> 05:35:09
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+ ip : 191.96.82.0 || 2020-6-28 ----> 05:35:17
+
+
+BLOCKED SAFEBROWSING || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+ ip : ^42.112.8.* || 2020-6-28 ----> 05:35:17
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362
+ ip : 179.61.182.161 || 2020-6-28 ----> 05:35:22
+
+
+BLOCKED SAFEBROWSING || user-agent : Mozilla/5.0 (Windows NT 5.1; rv:51.0) Gecko/20100101 Firefox/51.0
+ ip : ^42.112.8.* || 2020-6-28 ----> 05:35:51
+
+
+BLOCKED ISP || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+ ip : 104.227.178.22 || 2020-6-28 ----> 05:35:59
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+ ip : 181.214.181.173 || 2020-6-28 ----> 05:36:05
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+ ip : 181.214.181.173 || 2020-6-28 ----> 05:36:09
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+ ip : 191.101.96.203 || 2020-6-28 ----> 05:36:11
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+ ip : 67.227.97.72 || 2020-6-28 ----> 05:36:20
+
+
+BLOCKED SAFEBROWSING || user-agent : Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+ ip : ^42.112.8.* || 2020-6-28 ----> 05:36:58
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0
+ ip : 154.16.54.128 || 2020-6-28 ----> 05:37:03
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0
+ ip : 38.145.90.54 || 2020-6-28 ----> 05:37:18
+
+
+BLOCKED SAFEBROWSING || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+ ip : ^42.112.8.* || 2020-6-28 ----> 05:37:47
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 6.3; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+ ip : 45.73.171.78 || 2020-6-28 ----> 05:37:50
+
+
+BLOCKED SITE PARAM || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+ ip : 38.145.84.124 || 2020-6-28 ----> 05:38:15
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/54.0.3019.105 Safari/537.32
+ ip : 18.212.122.169 || 2020-6-28 ----> 07:50:35
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ ip : 18.212.122.169 || 2020-6-28 ----> 07:50:36
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ ip : 18.212.122.169 || 2020-6-28 ----> 07:50:37
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ ip : 18.212.122.169 || 2020-6-28 ----> 07:50:37
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ ip : 18.212.122.169 || 2020-6-28 ----> 07:50:37
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ ip : 18.212.122.169 || 2020-6-28 ----> 07:50:37
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ ip : 18.212.122.169 || 2020-6-28 ----> 07:50:37
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+ ip : 18.212.122.169 || 2020-6-28 ----> 07:50:38
+
+
